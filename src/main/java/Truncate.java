@@ -19,7 +19,7 @@ import java.sql.Statement;
 public class Truncate {
 
     /**
-     *      Song Table Diagram:
+     *      Song:
      *      |      title        |        artist         |
      *      ---------------------------------------------
      *      |'Let it be'        |'Beatles'              |
